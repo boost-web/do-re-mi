@@ -7,7 +7,7 @@ is this a good place to remove text and add it for test-branch?
     I just deleted code and add some other code with test-branch2
     When you sing you begin with do-re-mi
 	
-	-- Test-branch is adding this line
+	-- Test-branch is adding this line 4
 
     Do-re-mi, do-re-mi
     The first three notes just happen to be

@@ -1,6 +1,8 @@
 
 This is test code for test-branch2
 
+-- What if test-branch adds a line here also?
+
 is this a good place to remove text and add it for test-branch?
 
     Let's start at the very beginning

@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is another uer making changes
+=======
+Making changes
+
+Testing more changes
+>>>>>>> test-branch

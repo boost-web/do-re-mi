@@ -1,5 +1,7 @@
 This is a dummy repository I've set up to demonstrate a few basic Git operations.
 
+This is test code for test-branch2
+
 In the movie "The Sound of Music" is a song about learning to sing.  It starts like this:
 
     Let's start at the very beginning

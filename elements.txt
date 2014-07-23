@@ -1,6 +1,6 @@
 Each branch add a line below:
 
-test-branch2 add here:
+test-branch2 add here: adding text
 test-branch add here:
 
 

@@ -13,7 +13,7 @@ is this a good place to remove text and add it for test-branch?
     The first three notes just happen to be
     Do-re-mi, do-re-mi
 	
-	**This is more code I'm testing with test-branch2 1
+	**This is more code I'm testing with test-branch2 3
 	
 	let's add code here for test-branch
 

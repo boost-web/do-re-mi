@@ -8,6 +8,7 @@ This is test code for test-branch2
     When you read you begin with A-B-C
     When you sing you begin with do-re-mi
 	
+	-- Test-branch is adding this line
 
     Do-re-mi, do-re-mi
     The first three notes just happen to be

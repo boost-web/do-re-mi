@@ -1,4 +1,3 @@
-This is a dummy repository I've set up to demonstrate a few basic Git operations.
 
 This is test code for test-branch2
 
@@ -8,6 +7,7 @@ This is test code for test-branch2
     A very good place to start
     When you read you begin with A-B-C
     When you sing you begin with do-re-mi
+	
 
     Do-re-mi, do-re-mi
     The first three notes just happen to be

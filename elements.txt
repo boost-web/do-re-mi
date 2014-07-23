@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-changes again
-=======
-changes never!
->>>>>>> new_feature
+Making changes

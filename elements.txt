@@ -1,7 +1,7 @@
 Each branch add a line below:
 
 test-branch2 add here: adding text
-test-branch add here:
+test-branch add here: adding more text
 
 
 is this a good place to remove text and add it for test-branch?
